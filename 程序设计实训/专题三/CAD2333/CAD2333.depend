@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528635453 source:c:\users\今生\desktop\cad2333\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+
+1528902789 source:c:\users\今生\desktop\程序设计实训\专题三\cad2333\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+

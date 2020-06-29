@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528204533 source:c:\users\今生\desktop\koch雪花\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1528204859 source:c:\users\今生\desktop\程序设计实训\专题三\koch雪花\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

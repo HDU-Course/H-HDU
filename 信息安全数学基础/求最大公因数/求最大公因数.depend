@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539141228 source:c:\users\asus\desktop\求最大公因数\main.c
+	<stdio.h>
+	<stdlib.h>
+

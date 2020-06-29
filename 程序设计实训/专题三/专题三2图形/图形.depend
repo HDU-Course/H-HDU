@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527780998 source:c:\users\今生\desktop\cad\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1528803708 source:c:\users\今生\desktop\程序设计实训\专题三\专题三2图形\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
