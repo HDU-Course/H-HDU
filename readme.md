@@ -1,6 +1,6 @@
-# hyh-In-hdu
+# hyh-In-hdu 介绍
 
-### 本项目主要是为了分享本人在杭电学习时，收集的一些期末复习资料，大多是计算机、通信和网安相关课程的期末复习提纲，练习题和期末试卷。
+### 本项目主要是为了分享本人在杭电学习时，收集的一些期末复习资料，大多是计算机、通信和网安相关课程的期末复习提纲，练习题和期末试卷，因个人能力有限，故提供的部分课程资料不全，谢谢理解。
 
 ---
 
@@ -33,3 +33,6 @@
 * [通信原理](https://github.com/huyinhao/hyh-in-hdu/tree/master/%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86)
 * [通信电子电路](https://github.com/huyinhao/hyh-in-hdu/tree/master/%E9%80%9A%E4%BF%A1%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF)
 * [高等数学](https://github.com/huyinhao/hyh-in-hdu/tree/master/%E9%AB%98%E6%95%B0)
+
+---
+### 希望这些资料能帮助到各位同学，顺利过关期末考试！
