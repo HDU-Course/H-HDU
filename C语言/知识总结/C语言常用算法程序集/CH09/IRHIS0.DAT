@@ -1,0 +1,20 @@
+
+n=100
+
+x0=1.92000e+02  h=2.00000e+00  m=10
+
+xa=2.02230e+02  s=1.29867e+01  t=3.60371e+00
+
+1.93000e+02        2  XX                                                
+1.95000e+02        2  XX*                                               
+1.97000e+02        9  XXXXXXX*X                                         
+1.99000e+02       11  XXXXXXXXXXX   *                                   
+2.01000e+02       23  XXXXXXXXXXXXXXXXXXXX*XX                           
+2.03000e+02       25  XXXXXXXXXXXXXXXXXXXXX*XXX                         
+2.05000e+02       11  XXXXXXXXXXX     *                                 
+2.07000e+02        9  XXXXXXXXX*                                        
+2.09000e+02        6  XXX*XX                                            
+2.11000e+02        2  X*                                                
+
+k=1
+
